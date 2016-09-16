@@ -5,5 +5,6 @@ Channels that taught me how to make an android game:
 - https://www.youtube.com/channel/UCO9JvZ75Usyzgd1puurLF6A
 
 This is my first android project where I put in practice my skills on java and learned how to make a mobile game.
+ 
  Printscreen:
  - https://www.dropbox.com/s/rz9jf6pci1o30x2/Screenshot_20160916-003746.png?dl=0
